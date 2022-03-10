@@ -1,4 +1,4 @@
-==== PROVISION ELK STACK ====
+=== PROVISION ELK STACK ====
 
 Provision ELK stack on your local
 ---------------------------------
